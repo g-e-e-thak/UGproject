@@ -8,10 +8,10 @@ I decided to use python although it wasn't necessary to use it for construction,
 Also! Plotly is an amazing visualisation tool!
 
 The datasets are two in number. 
-
 	One from Kepler space probe's observation used to construct light curve and folded light curve.
-	
 	The other is from ground based telescopes and contains information about the star's doppler shift. This is used to make the radial velocity curve.
 
-The datasets are provided but can also be obtained from https://archive.stsci.edu/prepds/kepler_hlsp/, the MAST archive.
+The datasets are provided but can also be obtained from the MAST archive.
+	
+	https://archive.stsci.edu/prepds/kepler_hlsp/
 
